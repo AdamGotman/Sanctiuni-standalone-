@@ -1,0 +1,2 @@
+# Sanctiuni-standalone-
+STANDALONE
